@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable bg_gradient
+drawable button_cta
+drawable edit_text_rounded
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_techiq
+id login_btn
+id main
+id password_input
+id textViewWelcomeMessage
+id username_input
+layout activity_login
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.TechIQ
+style Theme.TechIQ
+xml backup_rules
+xml data_extraction_rules
